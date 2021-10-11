@@ -1,2 +1,2 @@
-# AprednizajeNoSupervisado
+# AprendizajeNoSupervisado
 Materia de DiploDatos
